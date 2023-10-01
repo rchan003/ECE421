@@ -3,7 +3,6 @@ ECE421 - Assignment 1
     Implement k-means algorithm only using numPy library on the UCI ML Breast Cancer dataset 
 
 Name: Rachel Chan
-Student ID: 1007853734
 Date: September 13th, 2023 
 '''
 import numpy as np
